@@ -1,1 +1,5 @@
 Welcome to lab 2 of SEISD Lab
+
+Line 2 added
+
+Line 3 added
